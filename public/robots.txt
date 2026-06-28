@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /agendarvisita
+
+Sitemap: https://casaderepousocoracaojesus.com.br/sitemap.xml
